@@ -1,4 +1,4 @@
-# Hackntu2017_demo
+# 健行_05_demo_推薦系統
 This repo is for the demo purpose of Hackntu Data science program.
 
 # About
