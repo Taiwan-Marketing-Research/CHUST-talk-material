@@ -1,0 +1,2 @@
+python /home/slave1/桌面/neural_style/neural_style.py eval --content-image '/home/slave1/桌面/howard_party.jpg' --model '/home/slave1/桌面/mosaic.pth' --output-image '/home/slave1/out2.jpg' --cuda 1
+
